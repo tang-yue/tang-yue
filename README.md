@@ -12,7 +12,7 @@
 
 
 - 个人博客 [my blog](https://github.com/tang-yue/my-blog)
-- 知乎账号 [知乎](https://www.zhihu.com/people/tang-yue-35)
+<!-- 知乎账号 [知乎](https://www.zhihu.com/people/tang-yue-35) -->
 <!--
 **tang-yue/tang-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
