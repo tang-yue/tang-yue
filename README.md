@@ -12,7 +12,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tang-yue&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 
-- 个人博客 [my blog](https://github.com/tang-yue/my-blog)
+- 个人博客 [my blog](https://github.com/tang-yue/my-blog) 正迁移中[新博客](https://tang-yue.github.io/)
 <!-- - 知乎账号 [知乎](https://www.zhihu.com/people/tang-yue-35) -->
 - 公众号：为了忘却的怀念
 <!--
